@@ -141,6 +141,8 @@ str_bbands = json.dumps(dict_bbands)
 jsonFile = open("bb_epoch.json", "w")
 jsonFile.write(str_bbands)
 jsonFile.close()
+df = pd.read_json(r'./bb_epoch.json')
+df.to_csv(r'./bbands_hsi.csv', index=None)
 
 # # Force lowercase (optional)
 data.columns = [x.lower() for x in data.columns]

@@ -1,0 +1,440 @@
+[
+  {
+      "symbol": "0001.HK",
+      "nameEng": "CKH HOLDINGS",
+      "nameChi": "\u9577\u548c",
+      "industry": "\u7d9c\u5408\u4f01\u696d"
+  },
+  {
+      "symbol": "0002.HK",
+      "nameEng": "CLP HOLDINGS",
+      "nameChi": "\u4e2d\u96fb\u63a7\u80a1",
+      "industry": "\u516c\u7528\u4e8b\u696d"
+  },
+  {
+      "symbol": "0003.HK",
+      "nameEng": "HK & CHINA GAS",
+      "nameChi": "\u9999\u6e2f\u4e2d\u83ef\u7164\u6c23",
+      "industry": "\u516c\u7528\u4e8b\u696d"
+  },
+  {
+      "symbol": "0005.HK",
+      "nameEng": "HSBC HOLDINGS",
+      "nameChi": "\u532f\u8c50\u63a7\u80a1",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "0006.HK",
+      "nameEng": "POWER ASSETS",
+      "nameChi": "\u96fb\u80fd\u5be6\u696d",
+      "industry": "\u516c\u7528\u4e8b\u696d"
+  },
+  {
+      "symbol": "0011.HK",
+      "nameEng": "HANG SENG BANK",
+      "nameChi": "\u6052\u751f\u9280\u884c",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "0012.HK",
+      "nameEng": "HENDERSON LAND",
+      "nameChi": "\u6046\u57fa\u5730\u7522",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0016.HK",
+      "nameEng": "SHK PPT",
+      "nameChi": "\u65b0\u9d3b\u57fa\u5730\u7522",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0017.HK",
+      "nameEng": "NEW WORLD DEV",
+      "nameChi": "\u65b0\u4e16\u754c\u767c\u5c55",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0027.HK",
+      "nameEng": "GALAXY ENT",
+      "nameChi": "\u9280\u6cb3\u5a1b\u6a02",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0066.HK",
+      "nameEng": "MTR CORPORATION",
+      "nameChi": "\u6e2f\u9435\u516c\u53f8",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0101.HK",
+      "nameEng": "HANG LUNG PPT",
+      "nameChi": "\u6046\u9686\u5730\u7522",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0175.HK",
+      "nameEng": "GEELY AUTO",
+      "nameChi": "\u5409\u5229\u6c7d\u8eca",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0241.HK",
+      "nameEng": "ALI HEALTH",
+      "nameChi": "\u963f\u91cc\u5065\u5eb7",
+      "industry": "\u91ab\u7642\u4fdd\u5065\u696d"
+  },
+  {
+      "symbol": "0267.HK",
+      "nameEng": "CITIC",
+      "nameChi": "\u4e2d\u4fe1\u80a1\u4efd",
+      "industry": "\u7d9c\u5408\u4f01\u696d"
+  },
+  {
+      "symbol": "0288.HK",
+      "nameEng": "WH GROUP",
+      "nameChi": "\u842c\u6d32\u570b\u969b",
+      "industry": "\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0291.HK",
+      "nameEng": "CHINA RES BEER",
+      "nameChi": "\u83ef\u6f64\u5564\u9152",
+      "industry": "\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0316.HK",
+      "nameEng": "OOIL",
+      "nameChi": "\u6771\u65b9\u6d77\u5916\u570b\u969b",
+      "industry": "\u5de5\u696d"
+  },
+  {
+      "symbol": "0386.HK",
+      "nameEng": "SINOPEC CORP",
+      "nameChi": "\u4e2d\u570b\u77f3\u6cb9\u5316\u5de5\u80a1\u4efd",
+      "industry": "\u80fd\u6e90\u696d"
+  },
+  {
+      "symbol": "0388.HK",
+      "nameEng": "HKEX",
+      "nameChi": "\u9999\u6e2f\u4ea4\u6613\u6240",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "0669.HK",
+      "nameEng": "TECHTRONIC IND",
+      "nameChi": "\u5275\u79d1\u5be6\u696d",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0688.HK",
+      "nameEng": "CHINA OVERSEAS",
+      "nameChi": "\u4e2d\u570b\u6d77\u5916\u767c\u5c55",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0700.HK",
+      "nameEng": "TENCENT",
+      "nameChi": "\u9a30\u8a0a\u63a7\u80a1",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "0762.HK",
+      "nameEng": "CHINA UNICOM",
+      "nameChi": "\u4e2d\u570b\u806f\u901a",
+      "industry": "\u96fb\u8a0a\u696d"
+  },
+  {
+      "symbol": "0823.HK",
+      "nameEng": "LINK REIT",
+      "nameChi": "\u9818\u5c55\u623f\u7522\u57fa\u91d1",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0857.HK",
+      "nameEng": "PETROCHINA",
+      "nameChi": "\u4e2d\u570b\u77f3\u6cb9\u80a1\u4efd",
+      "industry": "\u80fd\u6e90\u696d"
+  },
+  {
+      "symbol": "0868.HK",
+      "nameEng": "XINYI GLASS",
+      "nameChi": "\u4fe1\u7fa9\u73bb\u7483",
+      "industry": "\u5de5\u696d"
+  },
+  {
+      "symbol": "0881.HK",
+      "nameEng": "ZHONGSHENG HLDG",
+      "nameChi": "\u4e2d\u5347\u63a7\u80a1",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "0883.HK",
+      "nameEng": "CNOOC",
+      "nameChi": "\u4e2d\u570b\u6d77\u6d0b\u77f3\u6cb9",
+      "industry": "\u80fd\u6e90\u696d"
+  },
+  {
+      "symbol": "0939.HK",
+      "nameEng": "CCB",
+      "nameChi": "\u5efa\u8a2d\u9280\u884c",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "0941.HK",
+      "nameEng": "CHINA MOBILE",
+      "nameChi": "\u4e2d\u570b\u79fb\u52d5",
+      "industry": "\u96fb\u8a0a\u696d"
+  },
+  {
+      "symbol": "0960.HK",
+      "nameEng": "LONGFOR GROUP",
+      "nameChi": "\u9f8d\u6e56\u96c6\u5718",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "0968.HK",
+      "nameEng": "XINYI SOLAR",
+      "nameChi": "\u4fe1\u7fa9\u5149\u80fd",
+      "industry": "\u5de5\u696d"
+  },
+  {
+      "symbol": "0981.HK",
+      "nameEng": "SMIC",
+      "nameChi": "\u4e2d\u82af\u570b\u969b",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "0992.HK",
+      "nameEng": "LENOVO GROUP",
+      "nameChi": "\u806f\u60f3\u96c6\u5718",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "1038.HK",
+      "nameEng": "CKI HOLDINGS",
+      "nameChi": "\u9577\u6c5f\u57fa\u5efa\u96c6\u5718",
+      "industry": "\u516c\u7528\u4e8b\u696d"
+  },
+  {
+      "symbol": "1044.HK",
+      "nameEng": "HENGAN INT'L",
+      "nameChi": "\u6046\u5b89\u570b\u969b",
+      "industry": "\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "1088.HK",
+      "nameEng": "CHINA SHENHUA",
+      "nameChi": "\u4e2d\u570b\u795e\u83ef",
+      "industry": "\u80fd\u6e90\u696d"
+  },
+  {
+      "symbol": "1093.HK",
+      "nameEng": "CSPC PHARMA",
+      "nameChi": "\u77f3\u85e5\u96c6\u5718",
+      "industry": "\u91ab\u7642\u4fdd\u5065\u696d"
+  },
+  {
+      "symbol": "1109.HK",
+      "nameEng": "CHINA RES LAND",
+      "nameChi": "\u83ef\u6f64\u7f6e\u5730",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "1113.HK",
+      "nameEng": "CK ASSET",
+      "nameChi": "\u9577\u5be6\u96c6\u5718",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "1177.HK",
+      "nameEng": "SINO BIOPHARM",
+      "nameChi": "\u4e2d\u570b\u751f\u7269\u88fd\u85e5",
+      "industry": "\u91ab\u7642\u4fdd\u5065\u696d"
+  },
+  {
+      "symbol": "1211.HK",
+      "nameEng": "BYD COMPANY",
+      "nameChi": "\u6bd4\u4e9e\u8fea\u80a1\u4efd",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "1299.HK",
+      "nameEng": "AIA",
+      "nameChi": "\u53cb\u90a6\u4fdd\u96aa",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "1378.HK",
+      "nameEng": "CHINAHONGQIAO",
+      "nameChi": "\u4e2d\u570b\u5b8f\u6a4b",
+      "industry": "\u539f\u6750\u6599\u696d"
+  },
+  {
+      "symbol": "1398.HK",
+      "nameEng": "ICBC",
+      "nameChi": "\u5de5\u5546\u9280\u884c",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "1810.HK",
+      "nameEng": "XIAOMI-W",
+      "nameChi": "\u5c0f\u7c73\u96c6\u5718\uff0d\uff37",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "1876.HK",
+      "nameEng": "BUD APAC",
+      "nameChi": "\u767e\u5a01\u4e9e\u592a",
+      "industry": "\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "1928.HK",
+      "nameEng": "SANDS CHINA LTD",
+      "nameChi": "\u91d1\u6c99\u4e2d\u570b\u6709\u9650\u516c\u53f8",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "1929.HK",
+      "nameEng": "CHOW TAI FOOK",
+      "nameChi": "\u5468\u5927\u798f",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "1997.HK",
+      "nameEng": "WHARF REIC",
+      "nameChi": "\u4e5d\u9f8d\u5009\u7f6e\u696d",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "2007.HK",
+      "nameEng": "COUNTRY GARDEN",
+      "nameChi": "\u78a7\u6842\u5712",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "2020.HK",
+      "nameEng": "ANTA SPORTS",
+      "nameChi": "\u5b89\u8e0f\u9ad4\u80b2",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "2269.HK",
+      "nameEng": "WUXI BIO",
+      "nameChi": "\u85e5\u660e\u751f\u7269",
+      "industry": "\u91ab\u7642\u4fdd\u5065\u696d"
+  },
+  {
+      "symbol": "2313.HK",
+      "nameEng": "SHENZHOU INTL",
+      "nameChi": "\u7533\u6d32\u570b\u969b",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "2318.HK",
+      "nameEng": "PING AN",
+      "nameChi": "\u4e2d\u570b\u5e73\u5b89",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "2319.HK",
+      "nameEng": "MENGNIU DAIRY",
+      "nameChi": "\u8499\u725b\u4e73\u696d",
+      "industry": "\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "2331.HK",
+      "nameEng": "LI NING",
+      "nameChi": "\u674e\u5be7",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "2382.HK",
+      "nameEng": "SUNNY OPTICAL",
+      "nameChi": "\u821c\u5b87\u5149\u5b78\u79d1\u6280",
+      "industry": "\u5de5\u696d"
+  },
+  {
+      "symbol": "2388.HK",
+      "nameEng": "BOC HONG KONG",
+      "nameChi": "\u4e2d\u9280\u9999\u6e2f",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "2628.HK",
+      "nameEng": "CHINA LIFE",
+      "nameChi": "\u4e2d\u570b\u4eba\u58fd",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "2688.HK",
+      "nameEng": "ENN ENERGY",
+      "nameChi": "\u65b0\u5967\u80fd\u6e90",
+      "industry": "\u516c\u7528\u4e8b\u696d"
+  },
+  {
+      "symbol": "3690.HK",
+      "nameEng": "MEITUAN-W",
+      "nameChi": "\u7f8e\u5718\uff0d\uff37",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "3692.HK",
+      "nameEng": "HANSOH PHARMA",
+      "nameChi": "\u7ff0\u68ee\u88fd\u85e5",
+      "industry": "\u91ab\u7642\u4fdd\u5065\u696d"
+  },
+  {
+      "symbol": "3968.HK",
+      "nameEng": "CM BANK",
+      "nameChi": "\u62db\u5546\u9280\u884c",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "3988.HK",
+      "nameEng": "BANK OF CHINA",
+      "nameChi": "\u4e2d\u570b\u9280\u884c",
+      "industry": "\u91d1\u878d\u696d"
+  },
+  {
+      "symbol": "6098.HK",
+      "nameEng": "CG SERVICES",
+      "nameChi": "\u78a7\u6842\u5712\u670d\u52d9",
+      "industry": "\u5730\u7522\u5efa\u7bc9\u696d"
+  },
+  {
+      "symbol": "6862.HK",
+      "nameEng": "HAIDILAO",
+      "nameChi": "\u6d77\u5e95\u6488",
+      "industry": "\u975e\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "9618.HK",
+      "nameEng": "JD-SW",
+      "nameChi": "\u4eac\u6771\u96c6\u5718\uff0d\uff33\uff37",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "9633.HK",
+      "nameEng": "NONGFU SPRING",
+      "nameChi": "\u8fb2\u592b\u5c71\u6cc9",
+      "industry": "\u5fc5\u9700\u6027\u6d88\u8cbb"
+  },
+  {
+      "symbol": "9888.HK",
+      "nameEng": "BIDU-SW",
+      "nameChi": "\u767e\u5ea6\u96c6\u5718\uff0d\uff33\uff37",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "9988.HK",
+      "nameEng": "BABA-SW",
+      "nameChi": "\u963f\u91cc\u5df4\u5df4\uff0d\uff33\uff37",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  },
+  {
+      "symbol": "9999.HK",
+      "nameEng": "NTES-S",
+      "nameChi": "\u7db2\u6613\uff0d\uff33",
+      "industry": "\u8cc7\u8a0a\u79d1\u6280\u696d"
+  }
+]

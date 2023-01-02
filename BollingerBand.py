@@ -178,6 +178,10 @@ str_bbands = json.dumps(jsonAns)
 jsonFile.write(str_bbands)
 jsonFile.close()
 
+df = pd.read_json(r'./bb.json')
+df.to_csv(r'./BBANDS.csv', index=None)
+
+
 # # Force lowercase (optional)
 # data.columns = [x.lower() for x in data.columns]
 
