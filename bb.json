@@ -1,0 +1,952 @@
+[
+    {
+        "0002.HK": {
+            "date ": {
+                "Open": 53.2999992371,
+                "High": 54.9500007629,
+                "Low": 53.2999992371,
+                "Close": 54.2999992371,
+                "AdjClose": 54.2999992371,
+                "Volume": 2762385,
+                "BBL_20_2.0": 51.0908335097,
+                "BBM_20_2.0": 53.925,
+                "BBU_20_2.0": 56.7591664903,
+                "BBB_20_2.0": 10.5115122496,
+                "BBP_20_2.0": 0.5661568822,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0005.HK": {
+            "date ": {
+                "Open": 40.2999992371,
+                "High": 41.9500007629,
+                "Low": 40.2999992371,
+                "Close": 41.4500007629,
+                "AdjClose": 41.4500007629,
+                "Volume": 20058129,
+                "BBL_20_2.0": 38.749775192,
+                "BBM_20_2.0": 40.6950000763,
+                "BBU_20_2.0": 42.6402249606,
+                "BBB_20_2.0": 9.5600190718,
+                "BBP_20_2.0": 0.694065142,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0006.HK": {
+            "date ": {
+                "Open": 37.25,
+                "High": 37.75,
+                "Low": 37.0499992371,
+                "Close": 37.4000015259,
+                "AdjClose": 37.4000015259,
+                "Volume": 4615196,
+                "BBL_20_2.0": 35.4705792199,
+                "BBM_20_2.0": 37.0525001526,
+                "BBU_20_2.0": 38.6344210853,
+                "BBB_20_2.0": 8.5388080491,
+                "BBP_20_2.0": 0.6098352535,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": false,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0027.HK": {
+            "date ": {
+                "Open": 40.75,
+                "High": 43.2999992371,
+                "Low": 40.75,
+                "Close": 42.1500015259,
+                "AdjClose": 42.1500015259,
+                "Volume": 21392559,
+                "BBL_20_2.0": 34.3821342329,
+                "BBM_20_2.0": 40.4774999619,
+                "BBU_20_2.0": 46.5728656909,
+                "BBB_20_2.0": 30.1173033648,
+                "BBP_20_2.0": 0.6371945211,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0066.HK": {
+            "date ": {
+                "Open": 34.4500007629,
+                "High": 35.2000007629,
+                "Low": 34.2000007629,
+                "Close": 34.7999992371,
+                "AdjClose": 34.7999992371,
+                "Volume": 4658528,
+                "BBL_20_2.0": 33.733765029,
+                "BBM_20_2.0": 34.5724998474,
+                "BBU_20_2.0": 35.4112346658,
+                "BBB_20_2.0": 4.8520345483,
+                "BBP_20_2.0": 0.6356205708,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0175.HK": {
+            "date ": {
+                "Open": 9.1300001144,
+                "High": 10.4799995422,
+                "Low": 9.1300001144,
+                "Close": 10.2600002289,
+                "AdjClose": 10.2600002289,
+                "Volume": 156419571,
+                "BBL_20_2.0": 8.2289715618,
+                "BBM_20_2.0": 9.4740001202,
+                "BBU_20_2.0": 10.7190286786,
+                "BBB_20_2.0": 26.2830597973,
+                "BBP_20_2.0": 0.8156554536,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0241.HK": {
+            "date ": {
+                "Open": 3.8199999332,
+                "High": 4.2100000381,
+                "Low": 3.8199999332,
+                "Close": 4.0399999619,
+                "AdjClose": 4.0399999619,
+                "Volume": 106675207,
+                "BBL_20_2.0": 3.0755966122,
+                "BBM_20_2.0": 3.5204999566,
+                "BBU_20_2.0": 3.9654033011,
+                "BBB_20_2.0": 25.2750092283,
+                "BBP_20_2.0": 1.083834682,
+                "reverse buy": false,
+                "reverse sell": true,
+                "bbm buy": true,
+                "bull market": false,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0388.HK": {
+            "date ": {
+                "Open": 230.6000061035,
+                "High": 251.1999969482,
+                "Low": 230.6000061035,
+                "Close": 246.1999969482,
+                "AdjClose": 246.1999969482,
+                "Volume": 14470664,
+                "BBL_20_2.0": 206.7636107687,
+                "BBM_20_2.0": 243.0500007629,
+                "BBU_20_2.0": 279.3363907572,
+                "BBB_20_2.0": 29.8591975975,
+                "BBP_20_2.0": 0.543404651,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0669.HK": {
+            "date ": {
+                "Open": 75.1999969482,
+                "High": 80.1999969482,
+                "Low": 74.9000015259,
+                "Close": 78.5,
+                "AdjClose": 78.5,
+                "Volume": 5264554,
+                "BBL_20_2.0": 73.5514939309,
+                "BBM_20_2.0": 76.6050003052,
+                "BBU_20_2.0": 79.6585066795,
+                "BBB_20_2.0": 7.9720810969,
+                "BBP_20_2.0": 0.8102989584,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0700.HK": {
+            "date ": {
+                "Open": 224.3999938965,
+                "High": 247.3999938965,
+                "Low": 224.3999938965,
+                "Close": 238.6000061035,
+                "AdjClose": 238.6000061035,
+                "Volume": 67156433,
+                "BBL_20_2.0": 193.7804249921,
+                "BBM_20_2.0": 231.9999992371,
+                "BBU_20_2.0": 270.2195734821,
+                "BBB_20_2.0": 32.9479089402,
+                "BBP_20_2.0": 0.5863432809,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0762.HK": {
+            "date ": {
+                "Open": 3.4500000477,
+                "High": 3.5399999619,
+                "Low": 3.4300000668,
+                "Close": 3.4900000095,
+                "AdjClose": 3.4900000095,
+                "Volume": 68093740,
+                "BBL_20_2.0": 3.2923935464,
+                "BBM_20_2.0": 3.4509999871,
+                "BBU_20_2.0": 3.6096064278,
+                "BBB_20_2.0": 9.1919119848,
+                "BBP_20_2.0": 0.6229458975,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0868.HK": {
+            "date ": {
+                "Open": 11.2600002289,
+                "High": 12.1999998093,
+                "Low": 11.2600002289,
+                "Close": 12.0600004196,
+                "AdjClose": 12.0600004196,
+                "Volume": 14383738,
+                "BBL_20_2.0": 10.3671338719,
+                "BBM_20_2.0": 11.2190000534,
+                "BBU_20_2.0": 12.070866235,
+                "BBB_20_2.0": 15.1861338354,
+                "BBP_20_2.0": 0.9936223461,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0881.HK": {
+            "date ": {
+                "Open": 31.1000003815,
+                "High": 35.2000007629,
+                "Low": 31.1000003815,
+                "Close": 34.75,
+                "AdjClose": 34.75,
+                "Volume": 5880251,
+                "BBL_20_2.0": 29.7284279825,
+                "BBM_20_2.0": 32.7574998856,
+                "BBU_20_2.0": 35.7865717886,
+                "BBB_20_2.0": 18.4939138434,
+                "BBP_20_2.0": 0.8288961402,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0883.HK": {
+            "date ": {
+                "Open": 9.7700004578,
+                "High": 10.0,
+                "Low": 9.7399997711,
+                "Close": 9.8800001144,
+                "AdjClose": 9.8800001144,
+                "Volume": 96418197,
+                "BBL_20_2.0": 9.4703232687,
+                "BBM_20_2.0": 9.7505001068,
+                "BBU_20_2.0": 10.0306769449,
+                "BBB_20_2.0": 5.7469224148,
+                "BBP_20_2.0": 0.7311040565,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0968.HK": {
+            "date ": {
+                "Open": 8.3800001144,
+                "High": 9.1400003433,
+                "Low": 8.3800001144,
+                "Close": 8.8100004196,
+                "AdjClose": 8.8100004196,
+                "Volume": 32539610,
+                "BBL_20_2.0": 7.4047466534,
+                "BBM_20_2.0": 7.9970000267,
+                "BBU_20_2.0": 8.5892534001,
+                "BBB_20_2.0": 14.8118887426,
+                "BBP_20_2.0": 1.1863619774,
+                "reverse buy": false,
+                "reverse sell": true,
+                "bbm buy": true,
+                "bull market": false,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0981.HK": {
+            "date ": {
+                "Open": 16.3600006104,
+                "High": 16.9200000763,
+                "Low": 16.2800006866,
+                "Close": 16.5200004578,
+                "AdjClose": 16.5200004578,
+                "Volume": 31044835,
+                "BBL_20_2.0": 14.9503330189,
+                "BBM_20_2.0": 15.9789999485,
+                "BBU_20_2.0": 17.0076668781,
+                "BBB_20_2.0": 12.8752354075,
+                "BBP_20_2.0": 0.7629619431,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "0992.HK": {
+            "date ": {
+                "Open": 5.9200000763,
+                "High": 6.1700000763,
+                "Low": 5.7399997711,
+                "Close": 6.0500001907,
+                "AdjClose": 6.0500001907,
+                "Volume": 73199364,
+                "BBL_20_2.0": 5.2383623041,
+                "BBM_20_2.0": 5.7975000143,
+                "BBU_20_2.0": 6.3566377245,
+                "BBB_20_2.0": 19.2889248417,
+                "BBP_20_2.0": 0.7257942648,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1038.HK": {
+            "date ": {
+                "Open": 37.0,
+                "High": 37.8499984741,
+                "Low": 37.0,
+                "Close": 37.5499992371,
+                "AdjClose": 37.5499992371,
+                "Volume": 1766065,
+                "BBL_20_2.0": 34.8141952654,
+                "BBM_20_2.0": 36.925,
+                "BBU_20_2.0": 39.0358047346,
+                "BBB_20_2.0": 11.4329301809,
+                "BBP_20_2.0": 0.6480476206,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1093.HK": {
+            "date ": {
+                "Open": 9.220000267,
+                "High": 9.8000001907,
+                "Low": 9.1800003052,
+                "Close": 9.470000267,
+                "AdjClose": 9.470000267,
+                "Volume": 137816801,
+                "BBL_20_2.0": 7.1308909858,
+                "BBM_20_2.0": 8.354500103,
+                "BBU_20_2.0": 9.5781092202,
+                "BBB_20_2.0": 29.2922162217,
+                "BBP_20_2.0": 0.9558237383,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1177.HK": {
+            "date ": {
+                "Open": 4.1199998856,
+                "High": 4.3499999046,
+                "Low": 4.1199998856,
+                "Close": 4.2399997711,
+                "AdjClose": 4.2399997711,
+                "Volume": 98837836,
+                "BBL_20_2.0": 3.6015300271,
+                "BBM_20_2.0": 4.0195000291,
+                "BBU_20_2.0": 4.4374700311,
+                "BBB_20_2.0": 20.7971140175,
+                "BBP_20_2.0": 0.7637746022,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1211.HK": {
+            "date ": {
+                "Open": 187.1999969482,
+                "High": 205.3999938965,
+                "Low": 187.1999969482,
+                "Close": 197.0,
+                "AdjClose": 197.0,
+                "Volume": 19146512,
+                "BBL_20_2.0": 172.5241834734,
+                "BBM_20_2.0": 189.3099983215,
+                "BBU_20_2.0": 206.0958131696,
+                "BBB_20_2.0": 17.7336802038,
+                "BBP_20_2.0": 0.7290625075,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1299.HK": {
+            "date ": {
+                "Open": 62.9500007629,
+                "High": 66.4000015259,
+                "Low": 62.4000015259,
+                "Close": 65.5500030518,
+                "AdjClose": 65.5500030518,
+                "Volume": 65173223,
+                "BBL_20_2.0": 56.7490445007,
+                "BBM_20_2.0": 64.3400005341,
+                "BBU_20_2.0": 71.9309565675,
+                "BBB_20_2.0": 23.5963816301,
+                "BBP_20_2.0": 0.5797002718,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1378.HK": {
+            "date ": {
+                "Open": 5.9699997902,
+                "High": 6.3400001526,
+                "Low": 5.9499998093,
+                "Close": 6.2699999809,
+                "AdjClose": 6.2699999809,
+                "Volume": 17335397,
+                "BBL_20_2.0": 5.4826786626,
+                "BBM_20_2.0": 6.1160000086,
+                "BBU_20_2.0": 6.7493213546,
+                "BBB_20_2.0": 20.7103121367,
+                "BBP_20_2.0": 0.6215812267,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1810.HK": {
+            "date ": {
+                "Open": 9.1199998856,
+                "High": 9.9099998474,
+                "Low": 9.1000003815,
+                "Close": 9.6999998093,
+                "AdjClose": 9.6999998093,
+                "Volume": 176327133,
+                "BBL_20_2.0": 8.3462513755,
+                "BBM_20_2.0": 8.9609999657,
+                "BBU_20_2.0": 9.5757485558,
+                "BBB_20_2.0": 13.7205354869,
+                "BBP_20_2.0": 1.1010585916,
+                "reverse buy": false,
+                "reverse sell": true,
+                "bbm buy": true,
+                "bull market": false,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1876.HK": {
+            "date ": {
+                "Open": 18.0599994659,
+                "High": 19.4799995422,
+                "Low": 18.0400009155,
+                "Close": 19.0599994659,
+                "AdjClose": 19.0599994659,
+                "Volume": 15951842,
+                "BBL_20_2.0": 15.6939440802,
+                "BBM_20_2.0": 18.2890000343,
+                "BBU_20_2.0": 20.8840559884,
+                "BBB_20_2.0": 28.3783252143,
+                "BBP_20_2.0": 0.6485516007,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1928.HK": {
+            "date ": {
+                "Open": 16.4799995422,
+                "High": 17.4799995422,
+                "Low": 16.4599990845,
+                "Close": 16.8999996185,
+                "AdjClose": 16.8999996185,
+                "Volume": 46492505,
+                "BBL_20_2.0": 12.2761396388,
+                "BBM_20_2.0": 15.7590000153,
+                "BBU_20_2.0": 19.2418603917,
+                "BBB_20_2.0": 44.2015403656,
+                "BBP_20_2.0": 0.6638020879,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "1929.HK": {
+            "date ": {
+                "Open": 14.1999998093,
+                "High": 15.3800001144,
+                "Low": 14.0200004578,
+                "Close": 14.9799995422,
+                "AdjClose": 14.9799995422,
+                "Volume": 5264203,
+                "BBL_20_2.0": 13.2710270461,
+                "BBM_20_2.0": 14.3320000648,
+                "BBU_20_2.0": 15.3929730836,
+                "BBB_20_2.0": 14.8056518836,
+                "BBP_20_2.0": 0.8053798098,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "2020.HK": {
+            "date ": {
+                "Open": 72.4000015259,
+                "High": 79.5,
+                "Low": 72.4000015259,
+                "Close": 77.8000030518,
+                "AdjClose": 77.8000030518,
+                "Volume": 13160633.0,
+                "BBL_20_2.0": 68.2212712887,
+                "BBM_20_2.0": 76.9900009155,
+                "BBU_20_2.0": 85.7587305424,
+                "BBB_20_2.0": 22.7788791339,
+                "BBP_20_2.0": 0.5461869718,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "2269.HK": {
+            "date ": {
+                "Open": 39.2999992371,
+                "High": 44.9000015259,
+                "Low": 39.0999984741,
+                "Close": 43.3499984741,
+                "AdjClose": 43.3499984741,
+                "Volume": 75006453,
+                "BBL_20_2.0": 33.9115624268,
+                "BBM_20_2.0": 43.1600004196,
+                "BBU_20_2.0": 52.4084384124,
+                "BBB_20_2.0": 42.8565241098,
+                "BBP_20_2.0": 0.5102718997,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "2319.HK": {
+            "date ": {
+                "Open": 28.5,
+                "High": 30.7999992371,
+                "Low": 28.3500003815,
+                "Close": 30.5499992371,
+                "AdjClose": 30.5499992371,
+                "Volume": 20108279,
+                "BBL_20_2.0": 25.3642942853,
+                "BBM_20_2.0": 28.7499999046,
+                "BBU_20_2.0": 32.1357055239,
+                "BBB_20_2.0": 23.5527348211,
+                "BBP_20_2.0": 0.7658233667,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "2382.HK": {
+            "date ": {
+                "Open": 76.4499969482,
+                "High": 81.1500015259,
+                "Low": 75.8000030518,
+                "Close": 78.9499969482,
+                "AdjClose": 78.9499969482,
+                "Volume": 8260376,
+                "BBL_20_2.0": 66.6086682635,
+                "BBM_20_2.0": 73.0150005341,
+                "BBU_20_2.0": 79.4213328046,
+                "BBB_20_2.0": 17.5479893822,
+                "BBP_20_2.0": 0.9632132836,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "2628.HK": {
+            "date ": {
+                "Open": 8.8500003815,
+                "High": 9.5200004578,
+                "Low": 8.8100004196,
+                "Close": 9.4099998474,
+                "AdjClose": 9.4099998474,
+                "Volume": 43571705,
+                "BBL_20_2.0": 8.4389890547,
+                "BBM_20_2.0": 9.346999979,
+                "BBU_20_2.0": 10.2550109033,
+                "BBB_20_2.0": 19.4289274925,
+                "BBP_20_2.0": 0.5346911401,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "3690.HK": {
+            "date ": {
+                "Open": 145.0,
+                "High": 158.8000030518,
+                "Low": 144.5,
+                "Close": 149.5,
+                "AdjClose": 149.5,
+                "Volume": 62912735,
+                "BBL_20_2.0": 117.9859620019,
+                "BBM_20_2.0": 140.9100002289,
+                "BBU_20_2.0": 163.8340384558,
+                "BBB_20_2.0": 32.5371346103,
+                "BBP_20_2.0": 0.6873579098,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "3692.HK": {
+            "date ": {
+                "Open": 13.4600000381,
+                "High": 13.8599996567,
+                "Low": 13.1599998474,
+                "Close": 13.4799995422,
+                "AdjClose": 13.4799995422,
+                "Volume": 7587949,
+                "BBL_20_2.0": 10.9873103936,
+                "BBM_20_2.0": 12.9219999313,
+                "BBU_20_2.0": 14.8566894691,
+                "BBB_20_2.0": 29.9441193007,
+                "BBP_20_2.0": 0.6442090837,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "6098.HK": {
+            "date ": {
+                "Open": 8.2899999619,
+                "High": 10.1199998856,
+                "Low": 8.220000267,
+                "Close": 9.6000003815,
+                "AdjClose": 9.6000003815,
+                "Volume": 85640486,
+                "BBL_20_2.0": 6.5947701753,
+                "BBM_20_2.0": 9.0085000992,
+                "BBU_20_2.0": 11.4222300231,
+                "BBB_20_2.0": 53.587831433,
+                "BBP_20_2.0": 0.6225282656,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "6862.HK": {
+            "date ": {
+                "Open": 13.8999996185,
+                "High": 15.779999733,
+                "Low": 13.8199996948,
+                "Close": 15.220000267,
+                "AdjClose": 15.220000267,
+                "Volume": 50702571,
+                "BBL_20_2.0": 11.9672951756,
+                "BBM_20_2.0": 13.6360000134,
+                "BBU_20_2.0": 15.3047048511,
+                "BBB_20_2.0": 24.4749902632,
+                "BBP_20_2.0": 0.9746196625,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "9618.HK": {
+            "date ": {
+                "Open": 158.0,
+                "High": 177.8000030518,
+                "Low": 158.0,
+                "Close": 171.6000061035,
+                "AdjClose": 171.6000061035,
+                "Volume": 21308781,
+                "BBL_20_2.0": 135.8235794856,
+                "BBM_20_2.0": 164.2950012207,
+                "BBU_20_2.0": 192.7664229558,
+                "BBB_20_2.0": 34.6589020037,
+                "BBP_20_2.0": 0.6282866193,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    },
+    {
+        "9988.HK": {
+            "date ": {
+                "Open": 64.0,
+                "High": 76.1999969482,
+                "Low": 64.0,
+                "Close": 69.9000015259,
+                "AdjClose": 69.9000015259,
+                "Volume": 151997251,
+                "BBL_20_2.0": 58.0794624132,
+                "BBM_20_2.0": 68.9224994659,
+                "BBU_20_2.0": 79.7655365187,
+                "BBB_20_2.0": 31.4644336372,
+                "BBP_20_2.0": 0.5450751047,
+                "reverse buy": false,
+                "reverse sell": false,
+                "bbm buy": true,
+                "bull market": true,
+                "decrease bbu sell": false,
+                "decrease bbm sell": false,
+                "short market": false,
+                "status": "BUY"
+            }
+        }
+    }
+]
